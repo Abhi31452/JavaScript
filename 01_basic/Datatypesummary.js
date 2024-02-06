@@ -44,4 +44,5 @@ console.log(typeof myFunction);     //function  == object function
 // String		                                                    "string"
 // Object (native and does not implement [[Call]])	                "object"
 // Object (native or host and does implement [[Call]])	            "function"
-// Object (host and does not implement [[Call]])	Implementation-defined except may not be      "undefined", "boolean", "number", or "string".
+// Object (host and does not implement [[Call]])	                (Implementation-defined except may not be  
+//                                                                     "undefined", "boolean", "number", or "string".)
