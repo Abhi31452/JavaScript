@@ -4,9 +4,9 @@
 const name = "Abhishek"
 const repoCount = 33
 
-// console.log(name + repoCount + " Value");
+// console.log(name + repoCount + " Value");                                   // old way of writing 
 
-console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
+console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);     // String iterpolation technique....injaect variables using ..${var1}..
 
 const gameName = new String('abhi-hc-com')
 
